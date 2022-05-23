@@ -6,7 +6,7 @@
 
 
 ## 🚀 About Me
-I'm a full front end developer from france.
+I'm a front end developer from france.
 
 
 ## 🛠 Skills
